@@ -1,0 +1,24 @@
+# Number of classes
+11
+
+# Class names
+0
+Dogs
+Fruitfly
+Human Body
+Lizards
+Squirrel
+aphid
+fly
+kid
+person
+rat
+
+# Training images
+data/train/images
+
+# Validation images
+data/valid/images
+
+# Test images
+data/test/images
